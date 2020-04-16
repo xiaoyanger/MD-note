@@ -1,9 +1,10 @@
+```angular2html
 layout: '[layout]'
 title: git-zsh快捷键
 date: 2016-06-23 16:06:05
 tags: [git,zsh]
 categories: [git,zsh]
----
+```
 # git-zsh快捷键
 
 ```sh
